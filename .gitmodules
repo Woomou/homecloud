@@ -1,0 +1,3 @@
+[submodule "AppAgent"]
+	path = AppAgent
+	url = https://github.com/mnotgod96/AppAgent
